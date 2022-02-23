@@ -1,0 +1,1 @@
+- How to run the app? It is easy just open terminal and use commands: <uvicorn main:app> then hit enter
