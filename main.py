@@ -66,3 +66,5 @@ def delete_post(id: int):
     index = find_index_post(id)
     my_posts.pop(index)
     return {"post detail": "post was successfully deleted"}
+
+# hello world
