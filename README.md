@@ -1,3 +1,4 @@
+- Go to localhost:8000/docs to see docs API
 - How to run the app? It is easy just open terminal and use commands: <uvicorn app.main:app> then hit enter
 - Password for database postgres: 54321
 - Connect Postgres database to Python: 
